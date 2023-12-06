@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Benjamin</h1>
-<h3 align="center">A ever-curious Data Scientist based in Berlin, Germany </h3>
+<h3 align="center">An ever-curious Data Scientist based in Berlin, Germany 🇩🇪 </h3>
 
-- 🔭 I’m currently working on **Traffic Accident Hotspots in Berlin**
+- 🔭 I’m currently working on a project aiming to predict **traffic accident hotspots in Berlin**
 
-- 🌱 I’m currently learning **Spatial Data Science, Java and C++**
+- 🌱 I’m currently learning methods in **Spatial Data Science** as well as how to code in **Java and C++**
 
 - 👯 I’m looking to collaborate on **Deep Learning projects**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **charestbenjamin@gmail.com**
 
-- ⚡ Fun fact **I'm a huge metalhead**
+- ⚡ Fun fact about me: **according to my Spotify Wrapped, I'm a huge metalhead who almost exclusively listens to deathcore**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
