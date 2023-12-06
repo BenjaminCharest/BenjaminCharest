@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **charestbenjamin@gmail.com**
 
-- ⚡ Fun fact about me: **according to this year's Spotify Wrapped, I'm a huge metalhead who almost exclusively listens to deathcore (it's not wrong)**
+- ⚡ Fun fact about me: **according to my Spotify Wrapped, I'm a huge metalhead who almost exclusively listens to deathcore (it's not wrong)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
