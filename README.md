@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Benjamin</h1>
 <h3 align="center">A ever-curious Data Scientist based in Berlin, Germany </h3>
 
-- 🔭 I’m currently working on **Traffic Accident Hotspots in Berlin, Germany**
+- 🔭 I’m currently working on **Traffic Accident Hotspots in Berlin**
 
 - 🌱 I’m currently learning **Spatial Data Science, Java and C++**
 
