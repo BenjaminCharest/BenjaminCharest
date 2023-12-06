@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **my Boot Camp experience**
 
-- 📫 How to reach me **charestbenjamin@gmail.com**
+- 📫 How to reach me: **charestbenjamin@gmail.com**
 
 - ⚡ Fun fact about me: **according to my Spotify Wrapped, I'm a huge metalhead who almost exclusively listens to deathcore (it's not wrong)**
 
