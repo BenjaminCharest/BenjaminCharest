@@ -13,6 +13,8 @@
 
 - 📫 How to reach me: **charestbenjamin@gmail.com**
 
+- 💱 My password: **********************
+
 - ⚡ Fun fact about me: **according to my Spotify Wrapped, I'm a huge metalhead who almost exclusively listens to deathcore (it's not wrong)**
 
 <h3 align="left">Connect with me:</h3>
